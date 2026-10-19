@@ -28,3 +28,6 @@ ul.meta li { padding:4px 0; border-bottom:1px solid var(--line); display:flex; j
 ul.meta .risk { color:var(--alert); font-weight:700; }
 .emojis button { font-size:20px; padding:4px 8px; }
 .note { font-size:13px; color:#4a5866; }
+input[type=text] { font:inherit; padding:8px 10px; border:1px solid var(--line); border-radius:6px; min-width:0; }
+.warn { border-color:var(--alert); }
+.bar .cnt { min-width:3.5em; text-align:center; }
